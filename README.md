@@ -24,7 +24,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/real-time-chat-app.git
+git clone https://github.com/merakesh1/Chat-Application.git
 cd real-time-chat-app
 Install dependencies for both the server and client:
 
